@@ -14,6 +14,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   flashy_tab_bar: ^0.0.3
   percent_indicator: ^2.1.1
+  circular_profile_avatar: ^1.0.6
 
 dev_dependencies:
   flutter_test:
