@@ -23,37 +23,24 @@ class _ProfileClientState extends State<ProfileClient> {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
             CircularProfileAvatar(
-              'https://avatars0.githubusercontent.com/u/8264639?s=460&v=4',
+              'https://photos.google.com/photo/AF1QipMcQVqwV5pETVPFQpQ-KrRlgX9rvJyB6WgFXBx4',
               radius: 100,
-              backgroundColor: Colors.green,
+              backgroundColor: Colors.grey,
               borderWidth: 10,
               initialsText: Text(
-                "AD",
+                "photo",
                 style: TextStyle(fontSize: 40, color: Colors.white),
               ),
               borderColor: Colors.brown,
               elevation: 5.0,
               onTap: () {
-                print('adil');
+                print('profile image clicked');
               },
             ),
-            CircularProfileAvatar(
-              'https://avatars0.githubusercontent.com/u/8264639?s=460&v=4',
-              radius: 120,
-              backgroundColor: Colors.green,
-              borderWidth: 10,
-              initialsText: Text(
-                "AD",
-                style: TextStyle(fontSize: 40, color: Colors.white),
-              ),
-              borderColor: Colors.yellow,
-              elevation: 5.0,
-              foregroundColor: Colors.yellow.withOpacity(0.5),
-              onTap: () {
-                print('adil');
-              },
-              showInitialTextAbovePicture: true,
-            ),
+            Text(
+              "Messou Franck Junior"
+            )
+            // name
             
           ],
         ),

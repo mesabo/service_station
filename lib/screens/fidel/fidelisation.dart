@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ivoirestation/consts/backgrounds.dart';
 import 'package:ivoirestation/screens/appBar.dart';
-import 'package:ivoirestation/screens/appBar.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 
 class Fidelisation extends StatefulWidget {
