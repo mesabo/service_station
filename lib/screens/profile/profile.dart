@@ -38,9 +38,36 @@ class _ProfileClientState extends State<ProfileClient> {
               },
             ),
             Text(
-              "Messou Franck Junior"
-            )
-            // name
+                  "Jean Paul Kouassi",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontWeight: FontWeight.w700,
+                      color: Colors.blueGrey,
+                      fontSize: 22.0),
+                ),
+          Divider(color: BGColor.blackbg,height: 10.0),
+          Text(
+                  "Contact: ",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontWeight: FontWeight.w700,
+                      color: Colors.blueGrey,
+                      fontSize: 16.0),
+                ),Text(
+                  "Contact: ",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontWeight: FontWeight.w700,
+                      color: Colors.blueGrey,
+                      fontSize: 16.0),
+                ),Text(
+                  "Contact: ",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontWeight: FontWeight.w700,
+                      color: Colors.blueGrey,
+                      fontSize: 16.0),
+                ),
             
           ],
         ),
