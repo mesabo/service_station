@@ -11,7 +11,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>ivoirestation</string>
+=======
+	<string>servicestation</string>
+>>>>>>> 34485a35cc2c1e9272004a19af5dd406379d5ce2
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

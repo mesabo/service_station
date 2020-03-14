@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="ci.hypertech.ivoirestation">
+=======
+    package="ci.hypertech.servicestation">
+>>>>>>> 34485a35cc2c1e9272004a19af5dd406379d5ce2
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
@@ -7,7 +11,11 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
+<<<<<<< HEAD
         android:label="ivoirestation"
+=======
+        android:label="servicestation"
+>>>>>>> 34485a35cc2c1e9272004a19af5dd406379d5ce2
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

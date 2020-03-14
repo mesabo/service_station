@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="ci.hypertech.ivoirestation">
+=======
+    package="ci.hypertech.servicestation">
+>>>>>>> 34485a35cc2c1e9272004a19af5dd406379d5ce2
     <!-- Flutter needs it to communicate with the running application
          to allow setting breakpoints, to provide hot reload, etc.
     -->

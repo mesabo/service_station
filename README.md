@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # ivoirestation
 
 ivoire service station.
+=======
+# servicestation
+
+A new Flutter application.
+>>>>>>> 34485a35cc2c1e9272004a19af5dd406379d5ce2
 
 ## Getting Started
 

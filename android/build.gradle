@@ -15,7 +15,10 @@ allprojects {
     repositories {
         google()
         jcenter()
+<<<<<<< HEAD
         mavenCentral()
+=======
+>>>>>>> 34485a35cc2c1e9272004a19af5dd406379d5ce2
     }
 }
 
